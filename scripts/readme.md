@@ -1,21 +1,21 @@
-## Data Description
+## Script Description
 
 ```
 - readme.md
 ---- DESCRIPTION OF STRUCTURE
 ----------------
 ----------------
-- dataset 1
+- script 1
 ---- DESCRIPTION
 ---- ORDER
 ---------------- 
 ----------------
-- dataset 2
+- script 2
 ---- DESCRIPTION
 ---- ORDER
 ---------------- 
 ----------------
-- dataset 3
+- script 3
 ---- DESCRIPTION
 ---- ORDER
 ---------------- 
